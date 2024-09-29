@@ -1,0 +1,8 @@
+firebase-admin
+pyautogui
+pynput
+psutil
+schedule
+Flask
+pytz
+filelock
